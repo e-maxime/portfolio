@@ -1,11 +1,11 @@
-languageCode = "en-us"
+languageCode = "fr"
 title = "Maxime Enrietto"
 baseurl = "http://example.org/"
 theme = "prologue"
 
 [params]
-  name = "Jane Doe"
-  description = "Hyperspace Engineer"
+  name = "Maxime Enrietto"
+  description = "Dévelopeur Web Junior"
   copyright = "Untitled."
 
 [[params.social]]
